@@ -7,6 +7,8 @@ This game is a collectathon style fishing game where the objective is to catch a
 - In this build, there are 3 minigames and 8 fish spanning across 3 difficulties: Easy, Medium, and Hard.
 - The game environment was designed in 3D, but the minigames take place in 2D space.
 
+**NOTE: SEE RELEASE SECTION FOR GAME FOLDER!**
+
 # Game controls: 
 
 - WASD / Arrow Keys for movement
