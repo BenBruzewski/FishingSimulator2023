@@ -1,6 +1,8 @@
 # FishingSimulator2023
 CS347 (Game Design &amp; Programming) Final Project, made by Ben Bruzewski
 
+This project was made using the Unity Editor, version 2020.3.40f1 (as well as C# for the scripts).
+
 This game is a collectathon style fishing game where the objective is to catch all of the different kinds of fish.
 - When you go to catch a fish, a minigame will load that you must complete to catch the fish.
 - These minigames vary in difficulty depending on the fish you have on the line
